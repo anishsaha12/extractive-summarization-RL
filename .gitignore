@@ -1,0 +1,6 @@
+drive_downloader/client_secret.json
+drive_downloader/token_drive_v3.pickle
+__pycache__
+.ipynb_checkpoints
+*.arrow
+*.pkl
